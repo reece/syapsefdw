@@ -1,0 +1,16 @@
+-*-outline-*-
+
+* column types (rule-based?); date_, has_->aii (array), 
+
+* column name mapping
+
+* rule-based column name mapping (has_, cardinality -> +s, etc)
+
+* explicit prop -> col mapping (instead of relying on zip order)
+
+* has_ -> list, always
+
+* reconnect syapse on failure?
+
+* config-based setup
+

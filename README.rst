@@ -24,7 +24,7 @@ Installation
 Install multicorn per those instructions. ('make install' is sufficient for me.)
 
 
-Then, in psql:
+Then, in psql::
 
     DROP FOREIGN TABLE syapse;
     DROP SERVER syapse;

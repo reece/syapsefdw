@@ -4,19 +4,6 @@ from classtable import ClassTable
 from savedquerytable import SavedQueryTable
 from utils import pg_log
 
-############################################################################
-
-# TODO: column types (rule-based?); date_, has_->aii (array), 
-# TODO: column name mapping
-# TODO: rule-based column name mapping (has_, cardinality -> +s, etc)
-# TODO: explicit prop -> col mapping (instead of relying on zip order)
-# TODO: has_ -> list, always
-
-# TODO: reconnect syapse on failure?
-# TODO: config-based setup
-
-############################################################################
-
 class SyapseFDWFactory(object):
     """This class creates new subclasses of SyapseFDW based on the
     provided arguments to the constructor.
