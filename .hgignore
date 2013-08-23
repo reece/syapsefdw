@@ -1,0 +1,13 @@
+syntax: glob
+
+*.bak
+*.orig
+*.pyc
+*.pyo
+*.sqlite3
+*~
+tmp
+Multicorn
+syapsefdw.egg-info
+build
+dist
