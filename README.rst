@@ -72,4 +72,4 @@ ToDo
 * write CREATE TABLE generator
 
 
-`Issues <https://bitbucket.org/biocommons/hgvs/issues?status=new&status=open>`_
+`Issues <https://bitbucket.org/reece/syapsefdw/issues?status=new&status=open>`_
