@@ -70,3 +70,6 @@ ToDo
 * expose AppIndividualId, and use these predicates if available
 * support saved queries, which are much faster but require downloading all data
 * write CREATE TABLE generator
+
+
+`Issues <https://bitbucket.org/biocommons/hgvs/issues?status=new&status=open>`_
